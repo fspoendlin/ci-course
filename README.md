@@ -1,6 +1,8 @@
 [![Run unit test](https://github.com/fspoendlin/ci-course/actions/workflows/unit_test.yml/badge.svg)](https://github.com/fspoendlin/ci-course/actions/workflows/unit_test.yml)
 [![Run on multiple os](https://github.com/fspoendlin/ci-course/actions/workflows/unit_test_os.yml/badge.svg)](https://github.com/fspoendlin/ci-course/actions/workflows/unit_test_os.yml)
 [![BCH compliance](https://bettercodehub.com/edge/badge/fspoendlin/ci-course?branch=main)](https://bettercodehub.com/)
+[![Documentation Status](https://readthedocs.org/projects/ci-course-fs/badge/?version=latest)](https://ci-course-fs.readthedocs.io/en/latest/?badge=latest)
+ 
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
