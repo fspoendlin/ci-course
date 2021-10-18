@@ -14,6 +14,10 @@ class TestFunctionality(unittest.TestCase):
         self.assertEqual(ci_course.minimum(1.2, 2.3), 1.2)
         self.assertEqual(ci_course.minimum(-1.2, -3), -3)
 
+    def test_minimum(self):
+        self.assertEqual(ci_course.minimum('a'), None)
+
+
 
 if __name__ == '__main__':
     unittest.main()
