@@ -1,3 +1,5 @@
+[![Run unit test](https://github.com/fspoendlin/ci-course/actions/workflows/unit_test.yml/badge.svg)](https://github.com/fspoendlin/ci-course/actions/workflows/unit_test.yml)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
