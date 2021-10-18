@@ -30,7 +30,7 @@ jobs:
     - name: Run codecov
       if: success()
       env:
-        CODECOV_TOKEN: ${{ sectrets.CODECOV_TOKEN }}
+        CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
       run: |
         codecov
 
